@@ -2,3 +2,28 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+ion-card-header {
+  padding-bottom: 10px;
+}
+
+ion-card-title {
+  font-size: 18px;
+}
+
+ion-card-subtitle {
+  font-size: 10px;
+}
+
+.learn-content--header {
+  font-size: var(--ion-font-family, inherit);
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+p {
+  font-size: 16px;
+}
